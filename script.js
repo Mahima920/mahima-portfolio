@@ -1,4 +1,3 @@
-/* ===== Helper (always on single page) ===== */
 function isHomePage(){ return true; }
 
 /* ===== Mobile nav toggle ===== */
